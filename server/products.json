@@ -1,0 +1,220 @@
+{
+    "author": {
+      "name": "David",
+      "lastname": "Garzon"
+    },
+    "categories": [
+      "Tecnología",
+      "Electrodomésticos",
+      "Hogar",
+      "Moda",
+      "Deportes",
+      "Juguetes"
+    ],
+    "items": [
+      {
+        "id": "001",
+        "title": "Apple iPhone 11 64GB Negro",
+        "price": {
+          "currency": "COP",
+          "amount": 2150000,
+          "decimals": 0
+        },
+        "picture": "https://http2.mlstatic.com/D_Q_NP_620960-MLU77638273465_072024-O.webp",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "002",
+        "title": "Apple iPhone 12 128GB Azul",
+        "price": {
+          "currency": "COP",
+          "amount": 2850000,
+          "decimals": 0
+        },
+        "picture": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-blue-select-2020?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1604343709000",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "003",
+        "title": "Apple iPhone 13 128GB Blanco",
+        "price": {
+          "currency": "COP",
+          "amount": 3250000,
+          "decimals": 0
+        },
+        "picture": "https://mac-center.com/cdn/shop/files/IMG-12496198.jpg?v=1723750557&width=823",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "004",
+        "title": "Apple iPhone 14 128GB Púrpura",
+        "price": {
+          "currency": "COP",
+          "amount": 3750000,
+          "decimals": 0
+        },
+        "picture": "https://http2.mlstatic.com/D_Q_NP_786356-MLM51559385272_092022-O.webp",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "005",
+        "title": "Apple iPhone 15 Pro 256GB Titanio",
+        "price": {
+          "currency": "COP",
+          "amount": 5400000,
+          "decimals": 0
+        },
+        "picture": "https://i5.walmartimages.com/asr/281a5d2e-d136-4328-8ec4-c612eec339fc.99942e377160035ea94ef48fce599bd1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "006",
+        "title": "Apple iPhone SE 2022 64GB Rojo",
+        "price": {
+          "currency": "COP",
+          "amount": 1850000,
+          "decimals": 0
+        },
+        "picture": "https://1210766573.rsc.cdn77.org/temp/1723225074_7e211e9e1a62b985a226cde32feba583.jpg",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "007",
+        "title": "Dell XPS 13 Laptop",
+        "price": {
+          "currency": "COP",
+          "amount": 4800000,
+          "decimals": 0
+        },
+        "picture": "https://i5.walmartimages.com/seo/Dell-XPS-13-9310-Intel-Core-i7-1185G7-Evo-Win-10-Pro-64-bit-Iris-Xe-Graphics-16-GB-RAM-512-SSD-NVMe-13-4-1920-x-1200-Wi-Fi-6-platinum-silver-black-in_3f6a81ac-39b9-4084-ba84-46e00415c47b.c2598a52a9cd4b48426eaf22dbfa28bf.jpeg",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "008",
+        "title": "HP Spectre x360 Convertible laptop",
+        "price": {
+          "currency": "COP",
+          "amount": 5200000,
+          "decimals": 0
+        },
+        "picture": "https://m.media-amazon.com/images/I/71AgpORJXXL.jpg",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "009",
+        "title": "Lenovo ThinkPad X1 Carbon Gen 11 laptop",
+        "price": {
+          "currency": "COP",
+          "amount": 5500000,
+          "decimals": 0
+        },
+        "picture": "https://www.tienda.cyh-technology.com.co/wp-content/uploads/2024/01/12-ThinkPad-X1-Carbon-Gen-11-5.png",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "010",
+        "title": "Asus ZenBook 14 OLED laptop",
+        "price": {
+          "currency": "COP",
+          "amount": 4300000,
+          "decimals": 0
+        },
+        "picture": "https://dlcdnwebimgs.asus.com/gain/98e97646-638e-4172-a126-7ad1972fc941/",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "011",
+        "title": "Dell XPS 13 Plus laptop",
+        "price": {
+          "currency": "COP",
+          "amount": 5200000,
+          "decimals": 0
+        },
+        "picture": "https://http2.mlstatic.com/D_Q_NP_650316-MLU79055201407_092024-O.webp",
+        "condition": "Nuevo",
+        "free_shipping": false
+      },
+      {
+        "id": "012",
+        "title": "HP Envy x360 laptop",
+        "price": {
+          "currency": "COP",
+          "amount": 3900000,
+          "decimals": 0
+        },
+        "picture": "https://images-cdn.ubuy.co.in/63504aabf50d570eb6688589-hp-envy-x360-2-in-1-laptop-intel.jpg",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "013",
+        "title": "Samsung Galaxy A34 5G",
+        "price": {
+          "currency": "COP",
+          "amount": 1299000,
+          "decimals": 0
+        },
+        "picture": "https://http2.mlstatic.com/D_Q_NP_651776-MLA54688514315_032023-O.webp",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "014",
+        "title": "Samsung Galaxy A54 5G",
+        "price": {
+          "currency": "COP",
+          "amount": 1699000,
+          "decimals": 0
+        },
+        "picture": "https://http2.mlstatic.com/D_Q_NP_831391-MLA70891226217_082023-O.webp",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "015",
+        "title": "Samsung Galaxy S21 FE",
+        "price": {
+          "currency": "COP",
+          "amount": 2099000,
+          "decimals": 0
+        },
+        "picture": "https://olimpica.vtexassets.com/arquivos/ids/1462778/image-5ef4e13928a44bd689158d731c8c8688.jpg?v=638560698360970000",
+        "condition": "Nuevo",
+        "free_shipping": false
+      },
+      {
+        "id": "016",
+        "title": "Samsung Galaxy S23 Ultra",
+        "price": {
+          "currency": "COP",
+          "amount": 5699000,
+          "decimals": 0
+        },
+        "picture": "https://http2.mlstatic.com/D_NQ_NP_982028-MLA73067605286_112023-O.webp",
+        "condition": "Nuevo",
+        "free_shipping": true
+      },
+      {
+        "id": "017",
+        "title": "Samsung Galaxy Z Flip5",
+        "price": {
+          "currency": "COP",
+          "amount": 4999000,
+          "decimals": 0
+        },
+        "picture": "https://images.samsung.com/co/smartphones/galaxy-z-flip5/images/galaxy-z-flip5-highlights-camera-flexcam-mo.jpg?imbypass=true",
+        "condition": "Nuevo",
+        "free_shipping": true
+      }
+    ]
+  }
